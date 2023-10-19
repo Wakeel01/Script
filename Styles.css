@@ -1,0 +1,31 @@
+h1 {       
+    text-align: center;
+    padding:20px;
+    font-family: monospace;
+    font-size: 2rem;
+}
+div#head{
+    background-color: skyblue;
+    padding:10px;
+    border: 10px solid;
+    height:700px;
+    width:500px;
+    margin-left:500px;
+    border-radius: 20px;
+}
+div head {
+    text-align: center;
+    margin: 5px
+}
+div.click  {
+    border: 10px solid rgb(221, 160, 233);
+    margin: 5px;
+    text-align: center;
+    font-family: monospace;
+    font-size: large;
+    background-color:aqua;
+    border-radius: 50px;
+    Width: 300px;
+    position:relative;
+    left:60px
+}
